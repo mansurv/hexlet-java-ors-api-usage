@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String ORS_API_KEY = "апи-ключ-сюда";
+    private static final String ORS_API_KEY = "5b3ce3597851110001cf6248eefc2d3461ec47aaa10746315025ee37";
     private static final String ORS_URL = "https://api.openrouteservice.org/v2/directions/driving-car";
     private static final String OSM_SEARCH_URL = "https://nominatim.openstreetmap.org/search";
 //    private static final String OSM_REVERSE_URL = "https://nominatim.openstreetmap.org/reverse";
